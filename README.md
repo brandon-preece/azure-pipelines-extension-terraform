@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/bpreece-personal/terraform-pipelines/_apis/build/status/brandon-preece.azure-pipelines-extension-terraform?branchName=master)](https://dev.azure.com/bpreece-personal/terraform-pipelines/_build/latest?definitionId=8&branchName=master)
+
 # Azure Pipelines Extension for Terraform
 
 This repository contains the source for an Azure Pipelines extension that provides Tasks to easily install and use Terraform.
